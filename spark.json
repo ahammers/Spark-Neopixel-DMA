@@ -1,6 +1,6 @@
 {
-  "name": "neopixel-dma",
-  "author": "EkbDuffy",
+  "name": "neopixel-dma-aha",
+  "author": "ahammers",
   "license": "GNU GPLv3",
   "version": "0.0.2",
   "description": "An Implementation of NeoPixel Library with usind Direct Memory Access methods for the Spark Core",
